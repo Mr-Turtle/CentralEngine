@@ -1,0 +1,15 @@
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\bin\Debug\netcoreapp3.1\CentralEngine.exe
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\bin\Debug\netcoreapp3.1\CentralEngine.deps.json
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\bin\Debug\netcoreapp3.1\CentralEngine.runtimeconfig.json
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\bin\Debug\netcoreapp3.1\CentralEngine.runtimeconfig.dev.json
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\bin\Debug\netcoreapp3.1\CentralEngine.dll
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\bin\Debug\netcoreapp3.1\CentralEngine.pdb
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\obj\Debug\netcoreapp3.1\CentralEngine.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\obj\Debug\netcoreapp3.1\CentralEngine.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\obj\Debug\netcoreapp3.1\CentralEngine.AssemblyInfo.cs
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\obj\Debug\netcoreapp3.1\CentralEngine.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\obj\Debug\netcoreapp3.1\CentralEngine.dll
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\obj\Debug\netcoreapp3.1\CentralEngine.pdb
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\obj\Debug\netcoreapp3.1\CentralEngine.genruntimeconfig.cache
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\obj\Debug\netcoreapp3.1\CentralEngine.csproj.GenerateResource.cache
+C:\Users\willi\source\repos\CentralEngine\CentralEngine\obj\Debug\netcoreapp3.1\CentralEngine.CentralEngine.Window.resources
